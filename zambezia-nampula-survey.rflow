@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rflow [
+<!ENTITY lt "&#38;#60;">
+<!ENTITY gt "&#62;">
+<!ENTITY amp "&#38;#38;">
+<!ENTITY apos "&#39;">
+<!ENTITY quot "&#34;">
+]>
+<rflow>
+	<graph version="0.9" width="2271" height="914" locationtype="a" offsetx="0" offsety="0">
+		<setting>
+			<entry key="USE_GRID">true</entry>
+			<entry key="FOLDER">zambezia-nampula-survey</entry>
+			<entry key="GRID_DISTANCE2">10</entry>
+		</setting>
+<properties>
+<v key="packages"/>
+</properties>
+	</graph>
+	<task>
+		<taskgroup>
+			<taskproperty/>
+		</taskgroup>
+	</task>
+</rflow>
