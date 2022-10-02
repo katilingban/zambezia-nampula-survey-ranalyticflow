@@ -1,0 +1,18 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# Improving Nutrition Status for under 5 children in Zambezia and Nampula project baseline-endline survey data analysis and reporting workflow using RAnalyticFlow
+
+<!-- badges: start -->
+<!-- badges: end -->
+
